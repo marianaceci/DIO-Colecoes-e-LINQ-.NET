@@ -1,0 +1,16 @@
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\workspace\DIO-Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
